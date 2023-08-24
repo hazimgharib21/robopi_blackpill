@@ -1,6 +1,5 @@
 #include "motor.h"
 #include "constants.h"
-#include "serial.h"
 
 #define SOP '<'
 #define EOP '>'
